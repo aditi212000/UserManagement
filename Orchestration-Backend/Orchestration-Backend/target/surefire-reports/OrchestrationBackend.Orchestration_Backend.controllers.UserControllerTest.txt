@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: OrchestrationBackend.Orchestration_Backend.controllers.UserControllerTest
+-------------------------------------------------------------------------------
+Tests run: 10, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 18.44 s -- in OrchestrationBackend.Orchestration_Backend.controllers.UserControllerTest
